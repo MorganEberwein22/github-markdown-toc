@@ -7,7 +7,7 @@ gh-md-toc
 gh-md-toc — is for you if you **want to generate TOC** (Table Of Content) for a README.md or
 a GitHub wiki page **without installing additional software**.
 
-It's my try to fix a problem:
+It's my try to fix a problems:
 
   * [github/issues/215](https://github.com/isaacs/github/issues/215)
 
